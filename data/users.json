@@ -1,0 +1,26 @@
+[
+   {
+      "id": 1,
+      "name": "juan",
+      "email": "maximnt9583@gmail.com",
+      "password": "$2a$10$uxrmtVB6bNRa7ukhQB50nu8Gxx4lBDU041/gT4tiISm.lCBq8UM9e",
+      "avatar": "avatar-default.jpg",
+      "rol": "user"
+   },
+   {
+      "id": 2,
+      "name": "juan",
+      "email": "pepe583@gmail.com",
+      "password": "$2a$10$w80gf5AWOjvs65Ub3YGAuOhru2G8wEsxtCX8RB2Uw1fbmPQ0g574K",
+      "avatar": "avatar-default.jpg",
+      "rol": "user"
+   },
+   {
+      "id": 3,
+      "name": "maxi",
+      "email": "mnt9583@gmail.com",
+      "password": "$2a$10$j0rmR/eHRdevFv4j7EkOFe2BWSDDqvMZe2pkAaIZTSRHkr3AOMyxm",
+      "avatar": "avatar-default.jpg",
+      "rol": "user"
+   }
+]
